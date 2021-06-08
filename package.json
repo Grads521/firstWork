@@ -1,0 +1,26 @@
+{
+  "name": "firstwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "less": "^4.1.1",
+    "less-loader": "^9.0.0",
+    "vite": "^2.3.6"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grads521/firstWork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grads521/firstWork/issues"
+  },
+  "homepage": "https://github.com/Grads521/firstWork#readme"
+}
